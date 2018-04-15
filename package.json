@@ -1,6 +1,6 @@
 {
   "name": "@lucasfrosty/eslint-config",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "My personal eslint-config (prettier + eslint with airbnb style-guide)",
   "main": "index.js",
   "author": "lucasfrosty",
@@ -13,7 +13,6 @@
     "eslint-plugin-jsx-a11y": "^6.0.2",
     "eslint-plugin-prettier": "^2.6.0",
     "eslint-plugin-react": "^7.4.0",
-    "babel-eslint": ">=6.x",
-    "prettier": "1.12.0"
+    "babel-eslint": ">=6.x"
   }
 }
