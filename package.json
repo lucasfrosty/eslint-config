@@ -1,6 +1,6 @@
 {
   "name": "@lucasfrosty/eslint-config",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "My personal eslint-config (prettier + eslint with airbnb style-guide)",
   "main": "index.js",
   "author": "lucasfrosty",
