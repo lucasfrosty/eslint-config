@@ -15,6 +15,6 @@ module.exports = {
         "allowArrowFunctions": true,
       }
     ],
-    "object-curly-spacing": ["error", "always"]
+    "babel/object-curly-spacing": ["error", "always"]
   }
 }
