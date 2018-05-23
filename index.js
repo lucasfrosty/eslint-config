@@ -10,7 +10,7 @@ module.exports = {
   },
   "rules": {
     "react/jsx-no-bind": [
-      true,
+      1,
       {
         "allowArrowFunctions": true,
       }
